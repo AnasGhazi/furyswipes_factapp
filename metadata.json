@@ -1,0 +1,5 @@
+{
+  "name": "furyswipes_factsapp",
+  "description": "An Android-style swipeable flashcard app powered by AI to generate fun facts on any topic.",
+  "requestFramePermissions": []
+}
